@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+if react is not installed, can do this 
+    npm install --save react react-dom react-scripts
+    
 ## Available Scripts
 
 In the project directory, you can run:
